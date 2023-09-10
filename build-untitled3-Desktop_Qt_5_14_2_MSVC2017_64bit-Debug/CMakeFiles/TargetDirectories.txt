@@ -1,0 +1,7 @@
+C:/Users/rpc/Documents/build-untitled3-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/CMakeFiles/untitled3.dir
+C:/Users/rpc/Documents/build-untitled3-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rpc/Documents/build-untitled3-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rpc/Documents/build-untitled3-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/rpc/Documents/build-untitled3-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/CMakeFiles/install.dir
+C:/Users/rpc/Documents/build-untitled3-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/rpc/Documents/build-untitled3-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/CMakeFiles/untitled3_autogen.dir
